@@ -1,0 +1,81 @@
+{
+  "Equipements": [
+    {
+      "Codequip": 101,
+      "Idcat": 1,
+      "ETAT": "available"
+    },
+    {
+      "Codequip": 102,
+      "Idcat": 2,
+      "ETAT": "out_of_service"
+    },
+    {
+      "Codequip": 103,
+      "Idcat": 3,
+      "ETAT": "available"
+    },
+    {
+      "Codequip": 104,
+      "Idcat": 4,
+      "ETAT": "available"
+    },
+    {
+      "Codequip": 105,
+      "Idcat": 5,
+      "ETAT": "out_of_service"
+    },
+    {
+      "Codequip": 106,
+      "Idcat": 6,
+      "ETAT": "available"
+    },
+    {
+      "Codequip": 107,
+      "Idcat": 1,
+      "ETAT": "available"
+    }
+  ],
+  "Clients": [
+    {
+      "Idloc": 1,
+      "nom": "John Doe",
+      "adresse": "123 Main St",
+      "profession": "Builder",
+      "telephone": "555-1234",
+      "solde": 0
+    },
+    {
+      "Idloc": 2,
+      "nom": "Jane Smith",
+      "adresse": "456 Oak St",
+      "profession": "Plumber",
+      "telephone": "555-5678",
+      "solde": 100
+    },
+    {
+      "Idloc": 3,
+      "nom": "Alice Johnson",
+      "adresse": "789 Pine St",
+      "profession": "Electrician",
+      "telephone": "555-9012",
+      "solde": 50
+    },
+    {
+      "Idloc": 4,
+      "nom": "Bob Brown",
+      "adresse": "101 Maple St",
+      "profession": "Carpenter",
+      "telephone": "555-3456",
+      "solde": 200
+    },
+    {
+      "Idloc": 5,
+      "nom": "Charlie Davis",
+      "adresse": "202 Elm St",
+      "profession": "Painter",
+      "telephone": "555-7890",
+      "solde": 75
+    }
+  ]
+}
